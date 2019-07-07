@@ -1,0 +1,14 @@
+### eclipse
+
+.settings
+.classpath
+.settings/
+
+### inteli J
+
+.idea/
+*.iml
+*.iws
+
+### Mac
+.OS_Store
